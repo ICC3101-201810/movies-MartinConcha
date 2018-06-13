@@ -1,0 +1,17 @@
+C:\Users\Martín Concha\source\repos\movie\movie\bin\Debug\movie.exe.config
+C:\Users\Martín Concha\source\repos\movie\movie\bin\Debug\movie.exe
+C:\Users\Martín Concha\source\repos\movie\movie\bin\Debug\movie.pdb
+C:\Users\Martín Concha\source\repos\movie\movie\obj\Debug\movie.csprojResolveAssemblyReference.cache
+C:\Users\Martín Concha\source\repos\movie\movie\obj\Debug\movie.Buscador.resources
+C:\Users\Martín Concha\source\repos\movie\movie\obj\Debug\movie.Form1.resources
+C:\Users\Martín Concha\source\repos\movie\movie\obj\Debug\movie.Properties.Resources.resources
+C:\Users\Martín Concha\source\repos\movie\movie\obj\Debug\movie.csproj.GenerateResource.cache
+C:\Users\Martín Concha\source\repos\movie\movie\obj\Debug\movie.csproj.CoreCompileInputs.cache
+C:\Users\Martín Concha\source\repos\movie\movie\obj\Debug\movie.exe
+C:\Users\Martín Concha\source\repos\movie\movie\obj\Debug\movie.pdb
+C:\Users\Martín Concha\source\repos\movie\movie\obj\Debug\movie.ListaBuscador.resources
+C:\Users\Martín Concha\source\repos\movie\movie\obj\Debug\movie.ListaPeliculas.resources
+C:\Users\Martín Concha\source\repos\movie\movie\obj\Debug\movie.ListaActores.resources
+C:\Users\Martín Concha\source\repos\movie\movie\obj\Debug\movie.ListaDirectores.resources
+C:\Users\Martín Concha\source\repos\movie\movie\obj\Debug\movie.ListaProductores.resources
+C:\Users\Martín Concha\source\repos\movie\movie\obj\Debug\movie.ListaEstudios.resources
